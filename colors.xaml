@@ -271,7 +271,7 @@
     <Color x:Key="rose-950">#4c0519</Color>
 
     <!-- Brushes -->
-    <SolidColorBrush x:Key="slate-50-brush-brush" Color="{StaticResource slate-50}" />
+    <SolidColorBrush x:Key="slate-50-brush" Color="{StaticResource slate-50}" />
     <SolidColorBrush x:Key="slate-100-brush" Color="{StaticResource slate-100}" />
     <SolidColorBrush x:Key="slate-200-brush" Color="{StaticResource slate-200}" />
     <SolidColorBrush x:Key="slate-300-brush" Color="{StaticResource slate-300}" />
